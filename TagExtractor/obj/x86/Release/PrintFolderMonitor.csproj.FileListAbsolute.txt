@@ -1,0 +1,12 @@
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\bin\Release\PrintFolderMonitor.exe.config
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\bin\Release\XMLJTTemplate.xml
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\bin\Release\PrintFolderMonitor.exe
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\bin\Release\PrintFolderMonitor.pdb
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\obj\x86\Release\PrintFolderMonitor.exe
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\obj\x86\Release\PrintFolderMonitor.pdb
+Y:\Dropbox\Adlib\Technical\VS Projects\PrintFolderMonitor\PrintFolderMonitor\bin\Release\PrintFolderMonitor.exe.config
+Y:\Dropbox\Adlib\Technical\VS Projects\PrintFolderMonitor\PrintFolderMonitor\obj\x86\Release\PrintFolderMonitor.exe
+Y:\Dropbox\Adlib\Technical\VS Projects\PrintFolderMonitor\PrintFolderMonitor\obj\x86\Release\PrintFolderMonitor.pdb
+Y:\Dropbox\Adlib\Technical\VS Projects\JTMover\PrintFolderMonitor\bin\Release\PrintFolderMonitor.exe.config
+Y:\Dropbox\Adlib\Technical\VS Projects\JTMover\PrintFolderMonitor\obj\x86\Release\PrintFolderMonitor.exe
+Y:\Dropbox\Adlib\Technical\VS Projects\JTMover\PrintFolderMonitor\obj\x86\Release\PrintFolderMonitor.pdb

@@ -1,0 +1,2 @@
+\\Mac\Dropbox\Adlib\VS Projects\Inpex Tag Extractor\Source\PrintFolderMonitor\bin\Debug\JTMover.exe.config
+\\Mac\Dropbox\Adlib\VS Projects\Inpex Tag Extractor\Source\TagExtractor\bin\Debug\JTMover.exe.config

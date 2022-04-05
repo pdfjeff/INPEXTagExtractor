@@ -1,0 +1,6 @@
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\bin\Debug\PrintFolderMonitor.exe.config
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\bin\Debug\PrintFolderMonitor.exe
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\bin\Debug\PrintFolderMonitor.pdb
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\obj\x86\Debug\PrintFolderMonitor.exe
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\obj\x86\Debug\PrintFolderMonitor.pdb
+V:\Adlib\VS Projects\PrintFolderMonitor\PrintFolderMonitor\bin\Debug\XMLJTTemplate.xml

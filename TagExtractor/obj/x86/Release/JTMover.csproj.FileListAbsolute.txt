@@ -1,0 +1,6 @@
+\\Mac\Dropbox\Adlib\Technical\VS Projects\JTMover\PrintFolderMonitor\bin\Release\JTMover.exe.config
+\\Mac\Dropbox\Adlib\Technical\VS Projects\JTMover\PrintFolderMonitor\bin\Release\JTMover.exe
+\\Mac\Dropbox\Adlib\Technical\VS Projects\JTMover\PrintFolderMonitor\bin\Release\JTMover.pdb
+\\Mac\Dropbox\Adlib\Technical\VS Projects\JTMover\PrintFolderMonitor\obj\x86\Release\JTMover.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Adlib\Technical\VS Projects\JTMover\PrintFolderMonitor\obj\x86\Release\JTMover.exe
+\\Mac\Dropbox\Adlib\Technical\VS Projects\JTMover\PrintFolderMonitor\obj\x86\Release\JTMover.pdb

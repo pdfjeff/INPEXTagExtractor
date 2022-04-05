@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TagExtractor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ScanInterval" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="TextMode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Line</Value>
+    </Setting>
+    <Setting Name="RetainXMLJobTicket" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RetainSearchablePDF" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RetainPDFInfo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RetainOriginalPDF" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ReportSizeLimitMB" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="CleanupDelayMS" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
+    <Setting Name="FolderToMonitor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\localhost\Adlib\TagExtractor\Input</Value>
+    </Setting>
+    <Setting Name="AdlibInputFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\localhost\Adlib\FolderConnector\Input</Value>
+    </Setting>
+    <Setting Name="TempFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\localhost\Adlib\TagExtractor\Temp</Value>
+    </Setting>
+    <Setting Name="TagDefinitionsFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\localhost\Adlib\TagExtractor\TagDefinitions.txt</Value>
+    </Setting>
+    <Setting Name="ReportsFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\localhost\Adlib\TagExtractor\Reports</Value>
+    </Setting>
+    <Setting Name="ErrorFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\localhost\Adlib\TagExtractor\Errors</Value>
+    </Setting>
+    <Setting Name="RetainTextOutput" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
