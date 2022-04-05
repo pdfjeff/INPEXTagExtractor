@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?AdLibeXpress applanguage='USA' appversion='4.7' dtdversion='1.0' ?>
+<!DOCTYPE JOBS SYSTEM 'C:\Adlib Express\dtd\AdlibExpress.dtd'[]>
+<JOBS xmlns:JOBS='http://www.adlibsys.com' xmlns:JOB='http://www.adlibsys.com' MEASUREMENTSYSTEM='Defined' MEASUREMENTUNIT='Inches' >
+  <JOB>
+
+    <JOB:DOCINPUTS>
+      &[DocInputs]
+    </JOB:DOCINPUTS>
+
+    <JOB:DOCOUTPUTS>
+      <JOB:DOCOUTPUT FOLDER='&[OutputPath]' FILENAME='&[OutputFileName].xml' DOCTYPE='PDFINFO' />
+      <JOB:DOCOUTPUT FOLDER='&[OutputPath]' FILENAME='&[OutputFileName].Searchable.pdf' DOCTYPE='PDF' />
+    </JOB:DOCOUTPUTS>
+
+    <JOB:SETTINGS MERGE='Yes'>
+
+      <JOB:HYPERLINKS ENABLED='Yes' CREATECONTENTHYPERLINKS='Yes' INHERITAPPEARANCE='Yes'/>
+
+      <JOB:OCRSETTINGS  ENABLED='Yes'
+                        ACCURACY='MaximizeSpeed'
+                        DESKEW='No'
+                        DESPECKLE='No'
+                        INVERT='Automatic'
+                        ROTATE='No'
+                        ONERROROUTPUTASIMAGEONLYPDF='No'
+                        OUTPUTASIMAGEONLYPDF='No'
+                        USERDICTIONARYPATH='C:\Adlib\TagExtractor\MyDictionary.oud'
+                        REMOVEBLANKPAGES='No'>
+        <JOB:IMAGEPROCESSING    ENABLED='Yes'/>
+        <JOB:PDFPROCESSING      ENABLED='Yes'/>
+        <JOB:DOCUMENTPROCESSING ENABLED='Yes'/>
+      </JOB:OCRSETTINGS>
+      <JOB:PDFINFOSETTINGS  TYPE='Text|'
+                            FORMAT='XML'
+                            ENCODING='ISO88591'
+                            STYLE='&[TextMode]'
+                            CSVDELIMITER=','
+                            CSVHEADINGS='No'>
+      </JOB:PDFINFOSETTINGS>
+                     
+    </JOB:SETTINGS>  
+
+  </JOB>
+</JOBS>
