@@ -1,0 +1,26 @@
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\bin\Debug\TagExtractorPrototype.exe
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\bin\Debug\TagExtractorPrototype.pdb
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.Form1.resources
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.Properties.Resources.resources
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.csproj.GenerateResource.Cache
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.exe
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.pdb
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\bin\Debug\System.Data.SQLite.dll
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\bin\Debug\System.Data.SQLite.xml
+T:\Work\JGC\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\bin\Debug\TagExtractorPrototype.exe
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\bin\Debug\TagExtractorPrototype.pdb
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\bin\Debug\itextsharp.dll
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\bin\Debug\itextsharp.xml
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.Form1.resources
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.Properties.Resources.resources
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.csproj.GenerateResource.Cache
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.exe
+\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.pdb
+Y:\Dropbox\Adlib\Sales\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.exe
+Y:\Dropbox\Adlib\Sales\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.pdb
+\\Mac\Dropbox\Adlib\Sales\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.exe
+\\Mac\Dropbox\Adlib\Sales\Clients\JCG\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.pdb
+V:\Adlib\VS Projects\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.exe
+V:\Adlib\VS Projects\Inpex Tag Extractor\Source\TagExtractorPrototype\TagExtractorPrototype\obj\x86\Debug\TagExtractorPrototype.pdb
