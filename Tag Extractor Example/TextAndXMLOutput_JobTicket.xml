@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?AdLibeXpress applanguage='USA' appversion='4.7' dtdversion='1.0' ?>
+<!DOCTYPE JOBS SYSTEM 'C:\Adlib Express\dtd\AdlibExpress.dtd'[]>
+<JOBS xmlns:JOBS='http://www.adlibsys.com' xmlns:JOB='http://www.adlibsys.com' MEASUREMENTSYSTEM='Defined' MEASUREMENTUNIT='Inches' >
+  <JOB>
+    <JOB:DOCINPUTS>
+      <JOB:DOCINPUT FOLDER='\\psf\Dropbox\Adlib\Clients\JCG\Inpex Tag Extractor\Samples Provided\' FILENAME='D-0420-1225-0125-0_3.pdf' BOOKMARKLEVEL='1'/>
+
+    </JOB:DOCINPUTS>
+    <JOB:DOCOUTPUTS>
+      <JOB:DOCOUTPUT FOLDER='C:\' FILENAME='D-0420-1225-0125-0_3.pdf' DOCTYPE='PDF' >
+        <JOB:DESTINATION>
+        </JOB:DESTINATION>
+      </JOB:DOCOUTPUT>
+      <JOB:DOCOUTPUT FOLDER='C:\' FILENAME='D-0420-1225-0125-0_3.txt' DOCTYPE='TXT' >
+        <JOB:DESTINATION>
+        </JOB:DESTINATION>
+      </JOB:DOCOUTPUT>
+      <JOB:DOCOUTPUT FOLDER='C:\' FILENAME='D-0420-1225-0125-0_3.xml' DOCTYPE='PDFINFO' >
+        <JOB:DESTINATION>
+        </JOB:DESTINATION>
+      </JOB:DOCOUTPUT>
+
+    </JOB:DOCOUTPUTS>
+
+    <JOB:SETTINGS MERGE='Yes'>
+<JOB:BOOKMARKS ENABLED='No'/>
+        <JOB:HTMLCONVERSION  MARGINBOTTOM='.25' 
+                     MARGINTOP='.25'
+                     MARGINLEFT='.25' 
+                     MARGINRIGHT='.25'
+                     ORIENTATION='Portrait'
+                     PAGESIZE='Letter'/>
+      <JOB:HYPERLINKS ENABLED='Yes' CREATECONTENTHYPERLINKS='Yes' INHERITAPPEARANCE='Yes'/>
+      <JOB:OCRSETTINGS  ENABLED='Yes'
+                        ACCURACY='MaximizeSpeed'
+                        DESKEW='No'
+                        DESPECKLE='No'
+                        INVERT='Automatic'
+                        ROTATE='Left'
+                        ERRORTHRESHOLD='0'
+                        ONERROROUTPUTASIMAGEONLYPDF='No'
+                        OUTPUTASIMAGEONLYPDF='No'
+                        REMOVEBLANKPAGES='No'>
+        <JOB:IMAGEPROCESSING    ENABLED='No'/>
+        <JOB:PDFPROCESSING      ENABLED='No'/>
+        <JOB:DOCUMENTPROCESSING ENABLED='No'/>
+      </JOB:OCRSETTINGS>
+      <JOB:PDFINFOSETTINGS  TYPE='Text|'
+                            FORMAT='XML'
+                            ENCODING='ISO88591'
+                            STYLE='Line'
+                            CSVDELIMITER=','
+                            CSVHEADINGS='No'>
+      </JOB:PDFINFOSETTINGS>
+      <JOB:PDFSETTINGS  CONVERTUSINGNATIVEAPPLICATIONSUPPORT='Yes'
+                        CONVERTUSINGEXTENDEDFILETYPESUPPORT='Yes'
+                        CONVERTUSINGEXTENDEDCADSUPPORT='No'
+                        PAGES='1-'
+                        PDFTYPE='PDF'
+                        PDFVERSION='PDFVersion15'>
+        <JOB:FONTEMBEDDING  ENABLED='No'
+                            PARTIALFONTS='Yes'
+                            STANDARDFONTS='No'/>
+        <JOB:OPTIMIZE       ENABLED='No'/>
+      </JOB:PDFSETTINGS>
+      <JOB:TEXTCONVERSION ORIENTATION='Portrait'
+                          MARGINHORIZONTAL='.5'
+                          MARGINVERTICAL='1'/>
+      <JOB:TEXTSETTINGS FORMATSTYLE='Simple'
+                        INSERTPAGEBREAKS='No'
+                        MINVERTWHITESPACE='Yes'
+                        MINHORIWHITESPACE='Yes'
+                        OCRTOEXTRACTTEXT='Yes'
+                        NOSOURCETEXTHANDLING='CreateEmptyFile'/>
+                        
+    </JOB:SETTINGS>  </JOB></JOBS>
